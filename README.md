@@ -15,9 +15,9 @@ Each problem is stored in its own file, categorized by topic:
 
 | #  | Problem Name                          | Difficulty | Status    | Notes                                    |
 |----|--------------------------------------|------------|-----------|------------------------------------------|
-| 53 | Maximum Subarray                     | Easy       | Solved    | Used Kadane’s O(n) method                |
+| 53 | Maximum Subarray                     | Medium       | Solved    | Used Kadane’s O(n) method                |
 | 1  | Two Sum                              | Easy       | Solved    | Hashmap for O(n)                         |
-| 167| Two Sum II – Input array sorted      | Easy       | Solved    | Used two-pointer approach for O(n)       |
+| 167| Two Sum II – Input array sorted      | Medium       | Solved    | Used two-pointer approach for O(n)       |
 | 26 | Remove Duplicates from Sorted Array  | Easy       | Solved    | Used two-pointer remodel                  |
 | 283| Move Zeroes                         | Easy       | Solved    | Maintained relative order in-place       |
 | 189| Rotate Array                         | Medium     | Solved    | Handled `k > n`, used slice and copy     |
